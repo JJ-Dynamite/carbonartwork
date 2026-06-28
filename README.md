@@ -1,6 +1,6 @@
 # Turn code into artwork
 
-[![CI](https://github.com/JJ-Dynamite/carbon-artwork/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/carbon-artwork/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-carbon-artwork/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-carbon-artwork/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Turn code into artwork - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/carbon-artwork.git
+git clone https://github.com/JJ-Dynamite/faang-carbon-artwork.git
 cd carbon-artwork
 
 # Install backend dependencies

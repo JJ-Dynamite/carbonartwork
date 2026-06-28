@@ -1,4 +1,4 @@
-# Contributing to carbon-artwork
+# Contributing to faang-carbon-artwork
 
 Thank you for your interest in contributing!
 

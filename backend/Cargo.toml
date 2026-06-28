@@ -1,11 +1,11 @@
 [package]
-name = "carbon-artwork-backend"
+name = "faang-carbon-artwork-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Turn code into artwork - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/carbon-artwork"
+repository = "https://github.com/JJ-Dynamite/faang-carbon-artwork"
 
 [dependencies]
 axum = "0.7"
